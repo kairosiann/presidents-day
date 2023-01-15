@@ -7,6 +7,5 @@ Currently, all data has been gathered from reading physical copies of The Choate
 ## Analysis
 See [`/analysis.ipynb`](analysis.ipynb)
 
-## Fun fact
-The start date of this project was coincidentally 2020's president's day (before it was announced!).
-
+## Additional Information
+Originally by Max Fan, updated by Ryan Kim.
